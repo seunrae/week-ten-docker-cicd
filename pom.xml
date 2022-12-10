@@ -69,6 +69,8 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>design-blog</finalName>
     </build>
+
 
 </project>
