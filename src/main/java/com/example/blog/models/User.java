@@ -17,6 +17,7 @@ import java.util.List;
 @Setter
 public class User {
     //Fashion designer i.e Dele
+    //hey
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "user_id", nullable = false, unique = true)
